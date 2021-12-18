@@ -1,6 +1,6 @@
 ## Searcid
 
-O **projeto** é um SPA desenvolvido como mobile first em [React.js](reactjs.org).
+O **projeto** é um SPA desenvolvido como mobile first em [React.js](http://www.reactjs.org).
 
 A **ideia** do projeto é ajudar pessoas que utilizam o CID 10. A Classificação Internacional de Doenças(CID 10), é publicada pela OMS e visa padronizar a codificação de doenças e outros problemas relaciondos a saúde.
 
